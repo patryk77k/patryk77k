@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">I'm passonate Frotend Developer</h3>
+<h3 align="center">I'm passionate Frotend Developer</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
