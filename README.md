@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available [here][https://kardach.onrender.com/](https://kardach.onrender.com/)
+- 👨‍💻 All of my projects are available [here](https://kardach.onrender.com/)
 
 - 📫 How to reach me **patryk77.k@gmail.com**
 
