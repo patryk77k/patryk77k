@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://kardach.onrender.com/)
 
-- 📫 How to reach me <a href="mailto:patryk77.k@gmail.com?body=ID:%20123">Click here</a>
+- 📫 How to reach me <a href="mailto:patryk77.k@gmail.com?">Click here</a>
 
 
 - ⚡ Fun fact **Now i'm in the process of learning Node.js**
