@@ -3,13 +3,13 @@
 </h1>
 <h3 align="center">I'm passionate Frotend Developer</h3>
 
-<h1>💫 O mnie:</h1>
+<h1>💫 About Me:</h1>
 <ul>
-    <li>🔭 Obecnie pracuję nad Mindmapperem</li>
-    <li>🌱 Uczę się obecnie Node.js</li>
-    <li>👨‍💻 Wszystkie moje projekty są dostępne na <a href="https://kardach.onrender.com">https://kardach.onrender.com</a></li>
-    <li>📫 Jak się ze mną skontaktować: <a href="mailto:patryk77.k@gmail.com">patryk77.k@gmail.com</a></li>
-    <li>⚡ Obecnie uczę się Node.js</li>
+    <li>🔭 I’m currently working on Mindmapper</li>
+    <li>🌱 I’m currently learning Node.js</li>
+    <li>👨‍💻 All of my projects are available <a href="https://kardach.onrender.com">here</a></li>
+    <li>📫 How to reach me: <a href="mailto:patryk77.k@gmail.com">patryk77.k@gmail.com</a>Click here</li>
+    <li>⚡ I'm currently in the process of learning Node.js</li>
 </ul>
 
 
