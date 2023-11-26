@@ -13,7 +13,11 @@
 <h3 align="center">I'm passionate Frotend Developer</h3>
 
 # 💫 About Me:
-    🔭 I’m currently working on Mindmapper<br><br>    🌱 I’m currently learning Node.js<br><br>    👨‍💻 All of my projects are available at https://kardach.onrender.com/<br><br>    📫 How to reach me patryk77.k@gmail.com<br><br>    ⚡ I'm currently in the process of learning Node.js<br>
+    🔭 I’m currently working on Mindmapper
+    🌱 I’m currently learning Node.js
+    👨‍💻 All of my projects are available at https://kardach.onrender.com
+    📫 How to reach me patryk77.k@gmail.com
+    ⚡ I'm currently in the process of learning Node.js<br>
 
 
 # 💻 Tech Stack:
