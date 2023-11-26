@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">I'm passionate Frotend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patryk77k&label=Profile%20views&color=0e75b6&style=flat" alt="patryk77k" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=patryk77k&label=Profile%20views&color=0e75b6&style=flat" alt="patryk77k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patryk77k" alt="patryk77k" /></a> </p>
 
