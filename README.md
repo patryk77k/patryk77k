@@ -6,8 +6,6 @@
 <h3 align="center">I'm passionate Frotend Developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patryk77k" alt="patryk77k" /></a> </p>
-
 - 🔭 I’m currently working on **Mindmapper**
 
 - 🌱 I’m currently learning **Node.js**
