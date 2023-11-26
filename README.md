@@ -1,9 +1,10 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=patryk77k&label=Profile%20views&color=0e75b6&style=flat" alt="patryk77k" /> </p>
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&random=false&width=458&height=67&lines=Hi+%F0%9F%91%8B%2C+I'm+Patryk" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">I'm passionate Frotend Developer</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=patryk77k&label=Profile%20views&color=0e75b6&style=flat" alt="patryk77k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patryk77k" alt="patryk77k" /></a> </p>
 
@@ -17,7 +18,7 @@
 
 - ⚡ Fun fact **Now i'm in the process of learning Node.js**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
