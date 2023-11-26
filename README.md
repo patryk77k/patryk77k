@@ -26,9 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=patryk77k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patryk77k&show_icons=true&locale=en" alt="patryk77k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patryk77k&" alt="patryk77k" /></p>
-
