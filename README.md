@@ -1,4 +1,5 @@
-<h1 align="center">
+
+[![](https://visitcount.itsvg.in/api?id=patryk77k&icon=0&color=0)](https://visitcount.itsvg.in)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=500&center=true&vCenter=true&random=false&width=458&height=67&lines=Hi+%F0%9F%91%8B%2C+I'm+Patryk" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">I'm passionate Frotend Developer</h3>
@@ -23,6 +24,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=patryk77k&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
