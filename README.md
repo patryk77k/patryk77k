@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center">I'm passionate Frotend Developer</h3>
+</br>
 
 - 🌱 I’m currently workinn on **Mindmapper**
 
