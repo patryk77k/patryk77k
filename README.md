@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm passionate Frotend Developer</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently workinn on **Mindmapper**
 
 - 👨‍💻 All of my projects are available [here](https://kardach.onrender.com/)
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Now i'm in the process of learning Node.js**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
