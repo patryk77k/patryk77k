@@ -2,7 +2,7 @@
 
 
 
-
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=500&center=true&vCenter=true&random=false&width=458&height=67&lines=Hi+%F0%9F%91%8B%2C+I'm+Patryk" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">I'm passionate Frotend Developer</h3>
@@ -10,7 +10,6 @@
 <h1>💫 About Me:</h1>
 <ul>
     <li>🔭 I’m currently working on Mindmapper</li>
-    <li>🌱 I’m currently learning Node.js</li>
     <li>👨‍💻 All of my projects are available <a href="https://kardach.onrender.com">in my portfolio</a></li>
     <li>📫 How to reach me: <a href="mailto:patryk77.k@gmail.com">click here</a></li>
     <li>⚡ I'm currently in the process of learning Node.js</li>
