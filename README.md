@@ -8,7 +8,7 @@
     <li>🔭 I’m currently working on Mindmapper</li>
     <li>🌱 I’m currently learning Node.js</li>
     <li>👨‍💻 All of my projects are available <a href="https://kardach.onrender.com">in my portfolio</a></li>
-    <li>📫 How to reach me: <a href="mailto:patryk77.k@gmail.com">patryk77.k@gmail.com</a>click here</li>
+    <li>📫 How to reach me: <a href="mailto:patryk77.k@gmail.com">click here</a></li>
     <li>⚡ I'm currently in the process of learning Node.js</li>
 </ul>
 
